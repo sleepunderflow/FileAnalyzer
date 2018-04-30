@@ -1,6 +1,9 @@
 # EMACS
 *~
 
+# compiled binary
+analyzer
+
 # Prerequisites
 *.d
 

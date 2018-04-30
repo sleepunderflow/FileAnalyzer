@@ -11,3 +11,4 @@ elf.o: elf.cpp elf.h elfFlags.h
 
 clear:
 	rm *.o
+	rm analyzer
