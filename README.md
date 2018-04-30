@@ -1,0 +1,2 @@
+# FileAnalyzer
+Executable files analyzer
