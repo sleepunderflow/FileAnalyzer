@@ -10,7 +10,7 @@ It can be useful for binary exploitation, injecting shellcode when you have a ph
 ## What's working
 - ELF files:
   - Header information (also includes getting *e_shnum* and *e_shstrndx* form 1st section header if applicable)
-    - Identifies *e_machine* based on data from (www.sco.com)[http://www.sco.com/developers/gabi/latest/ch4.eheader.html] on the 30/04/2018
+    - Identifies *e_machine* based on data from [www.sco.com](http://www.sco.com/developers/gabi/latest/ch4.eheader.html) on the 30/04/2018
     - Currently not interpreting *e_flags*
     - When it could be useful gives numbers as both HEX and DEC
 
