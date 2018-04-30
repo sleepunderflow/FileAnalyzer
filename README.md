@@ -50,7 +50,7 @@ Usage: `./analyzer sampleBinaries/standard`
 
 - Just a standard binary, asks user for input and prints it
 
-####largeSectionNumbers
+#### largeSectionNumbers
 Usage: `./analyzer sampleBinaries/largeSectionNumbers`
 
 - standard binary modified to have big big enough *e_shnum* and *e_shstrndx* to use section header at index 0 as source for those values
